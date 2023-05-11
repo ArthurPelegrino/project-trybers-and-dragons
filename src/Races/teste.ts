@@ -1,7 +1,14 @@
-import Dwarf from './Dwarf';
+// import { Energy, EnergyType } from '../Energy';
 
-const anao1 = new Dwarf('Zangado', 80);
-const anao2 = new Dwarf('Zangadoss', 70);
-console.log(anao1);
-console.log(anao2);
-console.log(Dwarf.createdRacesInstances());
+// class TestEnergy implements Energy {
+//   amount: number;
+//   type_: EnergyType;
+//   constructor(amount: number, type_: EnergyType) {
+//     this.amount = amount;
+//     this.type_ = type_; 
+//   }
+// }
+
+// const novoTeste = new TestEnergy(45, 'mana');
+
+// console.log(novoTeste);
